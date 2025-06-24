@@ -34,7 +34,7 @@ Use the **Live Server** extension in VS Code to preview locally.
 
 ## 📸 Screenshot
 
-_Add a screenshot as `Screenshot.png` in the root folder to preview the result._
+Task-1\Screenshot.png
 
 ---
 
